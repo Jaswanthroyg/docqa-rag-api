@@ -1,0 +1,20 @@
+{"question": "How many days of paid annual leave do full-time employees get?", "answerable": true, "expect_file": "acme_handbook.txt", "keywords": ["24"]}
+{"question": "How many unused leave days can be carried over to the next year?", "answerable": true, "expect_file": "acme_handbook.txt", "keywords": ["10"]}
+{"question": "When is a medical certificate required for sick leave?", "answerable": true, "expect_file": "acme_handbook.txt", "keywords": ["3"]}
+{"question": "What are the core working hours?", "answerable": true, "expect_file": "acme_handbook.txt", "keywords": ["10:00"]}
+{"question": "How many days can employees work remotely each week?", "answerable": true, "expect_file": "acme_handbook.txt", "keywords": ["3 days"]}
+{"question": "What is the daily meal reimbursement limit while travelling?", "answerable": true, "expect_file": "acme_handbook.txt", "keywords": ["1,500"]}
+{"question": "How long do I have to submit an expense claim?", "answerable": true, "expect_file": "acme_handbook.txt", "keywords": ["30 days"]}
+{"question": "What is the maximum throughput of the Router X200?", "answerable": true, "expect_file": "acme_product_manual.txt", "keywords": ["3000"]}
+{"question": "How do I factory reset the router?", "answerable": true, "expect_file": "acme_product_manual.txt", "keywords": ["10 seconds"]}
+{"question": "How long is the warranty on the Router X200?", "answerable": true, "expect_file": "acme_product_manual.txt", "keywords": ["24 month"]}
+{"question": "What is the admin page address of the router?", "answerable": true, "expect_file": "acme_product_manual.txt", "keywords": ["192.168.1.1"]}
+{"question": "How often are firmware updates released?", "answerable": true, "expect_file": "acme_product_manual.txt", "keywords": ["quarterly"]}
+{"question": "What is the minimum password length?", "answerable": true, "expect_file": "acme_security_policy.txt", "keywords": ["14"]}
+{"question": "Within how many hours must a security incident be reported?", "answerable": true, "expect_file": "acme_security_policy.txt", "keywords": ["2 hours"]}
+{"question": "How long are customer records retained after the contract ends?", "answerable": true, "expect_file": "acme_security_policy.txt", "keywords": ["7 years"]}
+{"question": "How are backups encrypted?", "answerable": true, "expect_file": "acme_security_policy.txt", "keywords": ["AES-256"]}
+{"question": "What is the capital of Australia?", "answerable": false}
+{"question": "Who won the football world cup in 2018?", "answerable": false}
+{"question": "What is Acme's stock price today?", "answerable": false}
+{"question": "Recipe for chocolate brownies with walnuts", "answerable": false}

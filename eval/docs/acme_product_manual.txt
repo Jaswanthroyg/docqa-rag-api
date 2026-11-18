@@ -1,0 +1,16 @@
+Acme Router X200 Product Manual
+
+Specifications
+The Router X200 supports Wi-Fi 6 with a maximum combined throughput of 3000 Mbps. It has four gigabit Ethernet ports and one 2.5 gigabit WAN port. The device weighs 540 grams and is powered by a 12V adapter drawing at most 24 watts.
+
+Setup
+Connect the WAN cable, plug in the power adapter, and wait until the status light turns solid green, which takes about 2 minutes. Open the admin page at 192.168.1.1 and log in with the password printed on the label under the device.
+
+Factory reset
+To restore factory settings, hold the reset button for 10 seconds while the device is powered on. All custom settings including Wi-Fi names and passwords will be erased.
+
+Warranty
+The Router X200 comes with a 24 month limited warranty covering manufacturing defects. Damage caused by water, power surges, or unauthorised firmware is not covered. To claim, contact support with the serial number and proof of purchase.
+
+Firmware updates
+Firmware updates are released quarterly. Enable automatic updates in the admin page under System, then Maintenance.

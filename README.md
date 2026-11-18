@@ -8,6 +8,23 @@ contain the answer.
 **Stack:** FastAPI, PostgreSQL + pgvector, Celery, Redis, JWT auth, Docker, GitHub Actions, pytest.
 Embeddings run locally (free). The LLM is Claude through the Anthropic API, with a keyless mock mode.
 
+## Demo
+
+**Cited answer.** Every claim points to a file and page.
+<img src="docs/images/03-answer-with-citations.png" alt="Answer with citations" width="800">
+
+**Caching.** The repeated question returns in milliseconds.
+<img src="docs/images/04-cache-hit.png" alt="Cache hit" width="800">
+
+<details>
+<summary>More screenshots</summary>
+
+<img src="docs/images/01-api-docs.png" alt="API documentation" width="800">
+<img src="docs/images/02-document-ready.png" alt="Document processed" width="800">
+<img src="docs/images/05-docker-running.png" alt="Docker services running" width="800">
+
+</details>
+
 ## Architecture
 
 ```

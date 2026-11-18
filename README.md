@@ -1,3 +1,4 @@
+![CI](https://github.com/Jaswanthroyg/docqa-rag-api/actions/workflows/ci.yml/badge.svg)
 # DocQA: RAG document Q&A API
 
 Upload PDFs, DOCX or text files, then ask questions. Answers come **only from your documents**, with
